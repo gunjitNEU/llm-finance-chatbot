@@ -18,8 +18,8 @@ The primary objective of this project is to develop a chatbot that leverages Lar
 - ollama
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/Faridghr/Chatbot-LLM-Interaction.git`
-2. Navigate to the project directory: `cd Chatbot-LLM-Interaction`
+1. Clone the repository: `git clone https://github.com/gunjitNEU/llm-finance-chatbot.git`
+2. Navigate to the project directory: `cd llm-finance-chatbot`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the Streamlit application: `streamlit run finance_chatbot.py`
 5. Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
